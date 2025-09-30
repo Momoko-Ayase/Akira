@@ -2,6 +2,14 @@
 
 [Markdown源文件](./akira.md) 需要方便纸质传播的版本？ [获取LaTeX版](./akira.tex) [下载预编译PDF](./akira.pdf)
 
+内容备份 [IPFS](https://gateway.pinata.cloud/ipfs/bafybeieqyqugho6cajx4t4y4xk3wx3ccju4zzlfft3fxv623bkuslkv654/) [archive.today](https://archive.md/JBYg3) [Wayback Machine](https://web.archive.org/web/20250926182531/https://akira.momokko.moe/)
+
+---
+
+**<p class="big-text">本来，这个东西就不该存在，它存在的原因，就是被当事人在背后蛐蛐（见最后“Do what I actually don't?”条）。</p>**
+**<p class="big-text">苦主有意想好好解决，但由于本挂条当事人的恶劣行为，那么，</p>**
+**<p class="big-text">您 们 想 怎 么 办 怎 么 办 吧 。 大不了苦主去死，无所谓的。</p>**
+
 ---
 
 _叠甲：本内容不包括对其他性少数人群以及精神类疾病患者的偏见、歧视等。**任何个人行为均不应当上升到集体。**对于任何受心理或精神疾病困扰的人群，我们**强烈建议**接受正规的疏导和治疗，并在发现自身异常时尝试主动取得帮助，尽可能既不伤害自己，又不伤害他人。同时，我们**强烈鄙视和谴责**借用自己属于某某团体的名义，进行任何不符合道德甚至法律规范的行为。_
