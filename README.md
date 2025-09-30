@@ -6,9 +6,11 @@
 
 ---
 
-**<p class="big-text">本来，这个东西就不该存在，它存在的原因，就是被当事人在背后蛐蛐（见最后“Do what I actually don't?”条）。</p>**
-**<p class="big-text">苦主有意想好好解决，但由于本挂条当事人的恶劣行为，那么，</p>**
-**<p class="big-text">您 们 想 怎 么 办 怎 么 办 吧 。 大不了苦主去死，无所谓的。</p>**
+<p class="big-text"><strong>本来，这个东西就不该存在，它存在的原因，就是被当事人在背后蛐蛐（见最后“Do what I actually don't?”条）。</strong></p>
+
+<p class="big-text"><strong>苦主有意想好好解决，但由于本挂条当事人的恶劣行为，那么，</strong></p>
+
+<p class="big-text"><strong>您 们 想 怎 么 办 怎 么 办 吧 。 大不了苦主去死，无所谓的。</strong></p>
 
 ---
 
